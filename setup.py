@@ -9,4 +9,5 @@ setup(name='headless_pdfkit',
       author_email='mr@shu.io',
       license='MIT',
       packages=['headless_pdfkit'],
+      install_requires=['pdfkit'],
       zip_safe=False)
