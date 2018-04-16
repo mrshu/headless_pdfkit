@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='headless_pdfkit',
-      version='0.1.4',
+      version='0.1.5',
       description='A headless version of pdfkit which makes use of xvfb-run',
       long_description=open('README.rst').read(),
       url='http://github.com/mrshu/headless_pdfkit',
